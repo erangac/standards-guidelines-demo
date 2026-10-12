@@ -16,10 +16,6 @@ Architecture documents should embed diagrams that clarify solution structure. Th
 
 ![OpenTech solution layers diagram](assets/arc-002-solution-layers.svg)
 
-A raster version of the same diagram is also available:
-
-![OpenTech solution layers (PNG)](assets/arc-002-solution-layers.png)
-
 ## 3. Capacity Workbook (Excel)
 
 Where capacity or sizing assumptions are required, attach a workbook that reviewers can download and reuse.
