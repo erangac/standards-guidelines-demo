@@ -12,6 +12,9 @@
 # inputs (not generated artefacts) and ARE committed.
 !references/**/*.pdf
 
+# Sample and supporting PDF assets published with the docs site.
+!docs/**/*.pdf
+
 # Editor / IDE
 .vscode/
 .idea/

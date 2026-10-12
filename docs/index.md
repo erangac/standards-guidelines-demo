@@ -9,6 +9,7 @@ These standards establish common practices and expectations for technology archi
 ### Architecture
 
 - [ARC-001 Architecture Document Guidelines](architecture/ARC-001-architecture-document-guidelines.md)
+- [ARC-002 Architecture Supporting Artifacts](architecture/ARC-002-architecture-supporting-artifacts.md)
 
 ### Service Management
 

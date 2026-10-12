@@ -9,6 +9,7 @@ nav:
   - Home: index.md
   - Architecture:
       - ARC-001 Architecture Document Guidelines: architecture/ARC-001-architecture-document-guidelines.md
+      - ARC-002 Architecture Supporting Artifacts: architecture/ARC-002-architecture-supporting-artifacts.md
   - Service Management:
       - SVC-001 SLA and Acceptance Criteria: service-management/SVC-001-sla-and-acceptance-criteria.md
 
